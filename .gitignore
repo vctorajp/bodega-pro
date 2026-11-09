@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local environment variables (never commit real credentials)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
